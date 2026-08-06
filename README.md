@@ -26,7 +26,7 @@ It implements, compares, and visualizes multiple chunking strategies side-by-sid
 
 ## 📁 Project Directory Structure
 
-```text
+``text
 TitleChainRAG/
 │
 ├── data/                    # Sample PDFs (e.g., research papers)
