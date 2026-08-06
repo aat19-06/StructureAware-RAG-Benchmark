@@ -26,7 +26,7 @@ It implements, compares, and visualizes multiple chunking strategies side-by-sid
 
 ## 📁 Project Directory Structure
 
-``text
+```text
 TitleChainRAG/
 │
 ├── data/                    # Sample PDFs (e.g., research papers)
@@ -38,7 +38,8 @@ TitleChainRAG/
 │
 ├── app.py                   # Interactive Streamlit visual dashboard
 ├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation 
+└── README.md                # Project documentation
+```
 
 ## 🛠️ Quick Start & Installation
 Clone the repository:
